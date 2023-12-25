@@ -41,3 +41,7 @@ int main() {
     encryptMsg(msg, key);
     return 0;
 }
+/*Encryption 
+Input : attack at once 
+Key = 2  
+Output : atc toctaka ne */
